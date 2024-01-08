@@ -34,7 +34,6 @@
 
 ## ➤ My stats:
 ![lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=jrcarlosanto&show_icons=true&theme=radical)
-<div></div>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrcarlosanto&layout=compact&theme=radical)
 
 
