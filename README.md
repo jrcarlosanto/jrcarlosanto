@@ -2,10 +2,6 @@
 <h1 align="left">Hi , I'm Carlos Antonio Sales de Oliveira Junior </h1> 
   
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&background=FFFFFF00&vCenter=true&width=600&height=60&lines=Hey+%F0%9F%91%8B+Welcome+to+my+profile;)](https://git.io/typing-svg)-->
-   
-
-
-<div align="left" valign="top"><br>
  
  
 
@@ -38,6 +34,7 @@
 
 ## ➤ My stats:
 ![lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=jrcarlosanto&show_icons=true&theme=radical)
+<div></div>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrcarlosanto&layout=compact&theme=radical)
 
 
