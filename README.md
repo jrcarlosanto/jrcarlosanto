@@ -1,5 +1,21 @@
 
 <h1 align="left">Hi , I'm Carlos Antonio Sales de Oliveira Junior </h1> 
+
+Olá! Meu nome é Carlos Antonio Sales de Oliveira Junior,  sou um apaixonado por tecnologia. Me formei em engenharia da computação. 
+Atualmente, estou estudando desenvolvimento web na Trybe, aprimorando minhas habilidades em Typescript com Node, React , Express e Python.
+
+Competências:
+- Criação de páginas com React.js e TypeScript utilizando React Router com Redux.js ou Context Api .
+- Estilização responsiva com CSS, styled components e bibliotecas como o Bootstrap.
+- Criação de API com Node.js, TypeScript, Express e com POO.
+- ORM Sequelize.
+- Banco de dados MySQL, PostgreSQL, SQL Server e Mongo.
+- Implementação de testes integração no back-end com TDD, Mocha, Chai e Sinon e RTL no front-end.
+- Python em resolução de problemas complexos, algoritmos de busca e de ordenação.
+- Docker e docker compose.
+- Experiência em versionamento com Git & GitHub e desenvolvimento com metodologias àgeis como scrum.
+
+Aberto a oportunidades de trabalho e freelancers para ganhar experiência.
   
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&background=FFFFFF00&vCenter=true&width=600&height=60&lines=Hey+%F0%9F%91%8B+Welcome+to+my+profile;)](https://git.io/typing-svg)-->
  
