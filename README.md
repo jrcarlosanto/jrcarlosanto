@@ -53,3 +53,8 @@ Aberto a oportunidades de trabalho e freelancers para ganhar experiência.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrcarlosanto&layout=compact&theme=radical)
 
 
+<p align="left">
+  <a href="carlosamtoni@gmail.com" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/carlos-antonio-sales-de-oliveira-junior/" title="LinkedIn">
+</p>
