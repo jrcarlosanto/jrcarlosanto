@@ -57,4 +57,5 @@ Aberto a oportunidades de trabalho e freelancers para ganhar experiência.
   <a href="carlosamtoni@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/carlos-antonio-sales-de-oliveira-junior/" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
 </p>
