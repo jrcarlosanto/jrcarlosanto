@@ -11,15 +11,14 @@ Olá! Meu nome é Carlos Antonio Sales de Oliveira Junior,  sou um apaixonado po
 Atualmente, estou estudando desenvolvimento web na Trybe, aprimorando minhas habilidades em Typescript com Node, React , Express e Python.
 
 Competências:
-- Criação de páginas com React.js e TypeScript utilizando React Router com Redux.js ou Context Api .
-- Estilização responsiva com CSS, styled components e bibliotecas como o Bootstrap.
-- Criação de API com Node.js, TypeScript, Express e com POO.
-- ORM Sequelize.
-- Banco de dados MySQL, PostgreSQL, SQL Server e Mongo.
-- Implementação de testes integração no back-end com TDD, Mocha, Chai e Sinon e RTL no front-end.
-- Python em resolução de problemas complexos, algoritmos de busca e de ordenação.
-- Docker e docker compose.
-- Experiência em versionamento com Git & GitHub e desenvolvimento com metodologias àgeis como scrum.
+- Desenvolvimento de páginas usando React.js e TypeScript, integrando React Router com Redux.js ou Context API.
+- Estilização responsiva utilizando CSS, styled components e frameworks como Bootstrap.
+- Construção de APIs com Node.js, TypeScript, Express e orientação a objetos.
+- Utilização do ORM Sequelize para interação com bancos de dados como MySQL, PostgreSQL, SQL Server e MongoDB.
+- Implementação de testes de integração no backend com TDD (Test-Driven Development), utilizando - - Mocha, Chai e Sinon, e testes no frontend com RTL (React Testing Library).
+- Aplicação de Python na resolução de problemas complexos, algoritmos de busca e ordenação.
+- Conhecimento em Docker e docker-compose para facilitar a construção e o gerenciamento de ambientes de desenvolvimento.
+- Experiência em versionamento de código com Git & GitHub, além de práticas ágeis como Scrum no desenvolvimento de software.
 
 Aberto a oportunidades de trabalho e freelancers para ganhar experiência.
   
