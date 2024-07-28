@@ -40,12 +40,16 @@ Aberto a oportunidades de trabalho e freelancers para ganhar experiência.
 - #### Backend 👩‍💻
  ![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+ ![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
 
  - #### Test 👷‍♀️
  ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
- ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
  ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
-   <!-- ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)-->
+ ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
+ ![Sinon](https://img.shields.io/badge/Sinon-000000?style=for-the-badge&logo=javascript&logoColor=white)
+ ![Chai](https://img.shields.io/badge/Chai-008000?style=for-the-badge&logo=javascript&logoColor=white)
+ ![xUnit](https://img.shields.io/badge/xUnit-000000?style=for-the-badge&logo=xunit&logoColor=white)
+
     
  - OS 🖥️
   <div style="display: inline_block">
